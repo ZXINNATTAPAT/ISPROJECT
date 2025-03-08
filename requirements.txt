@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-scikit-learn
 matplotlib
-streamlit-option-menu
+scikit-learn
+tensorflow
