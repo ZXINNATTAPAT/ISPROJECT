@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
+# from streamlit_option_menu import option_menu
 
 # ✅ ตั้งค่าเพจหลัก
 st.set_page_config(page_title="แอปพยากรณ์ราคาหุ้น", page_icon="📈", layout="wide")
